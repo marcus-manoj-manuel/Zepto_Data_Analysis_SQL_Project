@@ -1,3 +1,4 @@
+--It's good to have the habit of dropping any existing table in the SQL first line of code
 drop table if exists zepto;
 
 create table zepto (
